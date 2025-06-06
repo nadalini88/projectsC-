@@ -10,7 +10,7 @@ int main() {
 
     while (continuar == 's' || continuar == 'S'){
             if (primeiraVez){
-    cout << "Olá, mundo em C++!" << endl;
+    cout << "OlÃ¡, mundo em C++!" << endl;
     cout << "Favor fornecer o primeiro numero: ";
     cin >> resultado;
     primeiraVez = false;
